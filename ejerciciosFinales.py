@@ -1,4 +1,4 @@
-'''
+
 #Calculadora
 def suma(a, b):
     # Función para sumar dos números
@@ -198,7 +198,7 @@ while True:
     else:
         # Manejar opción no válida
         print("Opción no válida. Inténtalo de nuevo.")
-'''
+
 
 #Sistema de Gestión de Tareas
 
